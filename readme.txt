@@ -6,4 +6,4 @@ Creating a new branch is quick and simple.
 
 haha
 
-git creat a new branch.
+git creat a new &Bbranch.
